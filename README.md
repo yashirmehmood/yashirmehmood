@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **VR, AR, Kinnect, Python coding, Game Development, Salesforce and Data Analysis**
 
-- 📫 How to reach me **yashir.bsse1464@iiu.edu.pk**
+- 📫 How to reach me **yashirbajwa1464@gmail.com**
 
 - ⚡ Fun fact **I am desperate to learn new technologies**
 
