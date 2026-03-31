@@ -2,9 +2,7 @@
 <h3 align="center">Software Engineer | Backend • Android • XR (Unity)</h3>
 
 <p align="center">
-  <a href="https://github.com/yashirmehmood">
-    <img src="https://github-readme-stats.vercel.app/api?username=yashirmehmood&show_icons=true&theme=radical" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashirmehmood&show_icons=true&theme=radical" />
 </p>
 
 ---
@@ -62,6 +60,23 @@
 
 ### ☁️ DevOps & Tools
 `Docker` `Git` `GitLab CI/CD` `Linux` `Postman` `Azure`
+
+---
+
+## 🏆 Hackathons & Achievements
+
+<p align="center">
+  <a href="https://api.au.badgr.io/public/assertions/y4EOOU7qT0yvZwoz45VzpQ">
+    <img src="https://api.au.badgr.io/public/assertions/y4EOOU7qT0yvZwoz45VzpQ/image" width="140"/>
+  </a>
+  <a href="https://api.au.badgr.io/public/assertions/I2Tl0HS7S_eLxNvlFaT8rA">
+    <img src="https://api.au.badgr.io/public/assertions/I2Tl0HS7S_eLxNvlFaT8rA/image" width="140"/>
+  </a>
+</p>
+
+<p align="center">
+  🧠 Participant in international hackathons including AI, innovation & data-focused challenges
+</p>
 
 ---
 
