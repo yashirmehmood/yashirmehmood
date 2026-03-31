@@ -1,48 +1,108 @@
-<p>&nbsp; <img align = "center" src="https://github-readme-stats.vercel.app/api?username=yashirmehmood&show_icons=true&theme=radical"/></p>
 <h1 align="center">Hi 👋, I'm Yashar Mahmood Lashkar</h1>
-<h3 align="center">A passionate Software Developer(Games,Android Applications,C#,Python), Data Analyst</h3>
+<h3 align="center">Software Engineer | Backend • Android • XR (Unity)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashirmehmood&label=Profile%20views&color=0e75b6&style=flat" alt="yashirmehmood" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashirmehmood" alt="yashirmehmood" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@yashir09155107" target="blank"><img src="https://img.shields.io/twitter/follow/@yashir09155107?logo=twitter&style=for-the-badge" alt="@yashir09155107" /></a> </p>
-
-- 🔭 I’m currently working on **Microfinance Bank in Salesforce**
-
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Data Sciences, Salesforce Development, Mulesoft and AWS**
-
-- 👯 I’m looking to collaborate on [Mifos](https://mifos.org/)
-
-- 🤝 I’m looking for help with [CricVRX](https://www.cricvrx.com/)
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yashar-mahmood-911230b1/](https://www.linkedin.com/in/yashar-mahmood-911230b1/)
-
-- 💬 Ask me about **VR, AR, Kinnect, Python coding, Game Development, Salesforce and Data Analysis**
-
-- 📫 How to reach me **yashirbajwa1464@gmail.com**
-
-- ⚡ Fun fact **I am desperate to learn new technologies**
-</p>
-<h2 aligen="center">Badges Awarded to me in Hackathons</h2>
-<p>
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.au.badgr.io/public/assertions/y4EOOU7qT0yvZwoz45VzpQ?identity__email=yashirbajwa1464%40gmail.com"><img width="120px" height="120px" src="https://api.au.badgr.io/public/assertions/y4EOOU7qT0yvZwoz45VzpQ/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Hackmakers #FormulaAI Hack 2022: Participant Certificate</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Mar 10, 2022</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Yashir Mehmood</span></p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.au.badgr.io%2Fpublic%2Fassertions%2Fy4EOOU7qT0yvZwoz45VzpQ%3Fidentity__email%3Dyashirbajwa1464%2540gmail.com&amp;identity__email=yashirbajwa1464%40gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p></blockquote>
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.au.badgr.io/public/assertions/I2Tl0HS7S_eLxNvlFaT8rA?identity__email=yashirbajwa1464%40gmail.com"><img width="120px" height="120px" src="https://api.au.badgr.io/public/assertions/I2Tl0HS7S_eLxNvlFaT8rA/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Hackmakers #WorldInnovationDay Hack 2022: Participant Certificate</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>May 23, 2022</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Yashar Mahmood Lashkar</span></p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.au.badgr.io%2Fpublic%2Fassertions%2FI2Tl0HS7S_eLxNvlFaT8rA%3Fidentity__email%3Dyashirbajwa1464%2540gmail.com&amp;identity__email=yashirbajwa1464%40gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p></blockquote>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://twitter.com/@yashir09155107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yashir09155107" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yashar-mahmood-911230b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashar-mahmood-911230b1" height="30" width="40" /></a>
-<a href="https://kaggle.com/yashirmehmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yashirmehmood" height="30" width="40" /></a>
-<a href="https://fb.com/yashir.bajwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashir.bajwa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yashirmehmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashirmehmood" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/yashirmehmood">
+    <img src="https://github-readme-stats.vercel.app/api?username=yashirmehmood&show_icons=true&theme=radical" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashirmehmood&show_icons=true&locale=en&layout=compact" alt="yashirmehmood" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashirmehmood&show_icons=true&locale=en" alt="yashirmehmood" /></p>
+- 💼 Software Engineer with **6+ years experience in Unity (VR/AR/XR & 3D systems)**
+- 🏢 Worked with **Mercedes-Benz AG**, **AUDI AG**, and **Fraunhofer Institutes**
+- ⚙️ Strong focus on **Backend Development (C#, Python, APIs, Data Systems)**
+- 📱 Experience in **Android (Kotlin/Java)** – Automotive & real-time systems
+- 🔗 Skilled in **API design, system integration, and data-driven applications**
+- 🌍 Based in **Stuttgart, Germany** | Open to full-time roles
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashirmehmood&" alt="yashirmehmood" /></p>
+---
+
+## 🧠 What I Do
+
+- 🔧 Build **scalable backend systems** using **C#, FastAPI, Ruby on Rails**
+- 🔄 Design and integrate **REST APIs & data pipelines**
+- 📱 Develop **Android applications** (Automotive OS, MVVM, real-time UI)
+- 🎮 Create **immersive VR/AR experiences** with Unity (multiplayer, physics, optimization)
+- 🔌 Work on **system integration (gRPC, CAN data, telemetry systems)**
+
+---
+
+## 🏢 Professional Experience Highlights
+
+- 🚗 **Mercedes-Benz AG**  
+  → Android infotainment app (Kotlin, MVVM, real-time vehicle data)
+
+- 🚘 **AUDI AG**  
+  → Android Automotive apps + FastAPI backend, gRPC communication, voice features
+
+- 🧪 **Fraunhofer (IMW & IVV)**  
+  → Backend systems, APIs, data platforms (Rails, Flask, SQL, Docker)
+
+- 🎮 **6+ Years Unity Developer**  
+  → VR/AR apps, multiplayer systems, performance optimization, cross-platform builds
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`C#` `Python` `Kotlin` `Java` `Ruby` `JavaScript` `TypeScript`
+
+### ⚙️ Backend & APIs
+`FastAPI` `Flask` `Ruby on Rails` `REST APIs` `gRPC` `OpenAPI`
+
+### 📱 Mobile & XR
+`Android (Kotlin/Java)` `Unity3D` `VR/AR/XR` `Android Automotive OS`
+
+### 🗄️ Databases
+`PostgreSQL` `MySQL` `SQL`
+
+### ☁️ DevOps & Tools
+`Docker` `Git` `GitLab CI/CD` `Linux` `Postman` `Azure`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashirmehmood" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashirmehmood&layout=compact" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- 🤖 Artificial Intelligence & Machine Learning  
+- 📊 Data Engineering & Data Science  
+- ☁️ Cloud (AWS, Azure)  
+- 🔗 Advanced System Design & Scalable Architectures  
+
+---
+
+## 🤝 Open to Collaborate
+
+- Backend systems & APIs  
+- Android applications  
+- Unity / XR / Simulation projects  
+- Data-driven platforms  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **yashirbajwa1464@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/yashar-mahmood-911230b1/
+- 🧑‍💻 GitHub: https://github.com/yashirmehmood
+
+---
+
+## ⚡ Fun Fact
+
+I started as a **game developer** 🎮 and evolved into a **backend & systems engineer** — giving me a unique ability to build both **interactive experiences and scalable systems**.
