@@ -105,4 +105,4 @@
 
 ## ⚡ Fun Fact
 
-I started as a **game developer** 🎮 and evolved into a **backend & systems engineer** — giving me a unique ability to build both **interactive experiences and scalable systems**.
+I started as a **game developer** 🎮 and evolved into a **backend & systems engineer**, giving me a unique ability to build both **interactive experiences and scalable systems**.
