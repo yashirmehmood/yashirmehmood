@@ -1,6 +1,6 @@
 <p>&nbsp; <img align = "center" src="https://github-readme-stats.vercel.app/api?username=yashirmehmood&show_icons=true&theme=radical"/></p>
 <h1 align="center">Hi 👋, I'm Yashar Mahmood Lashkar</h1>
-<h3 align="center">A passionate Games Developer(VR,AR,2D,3D), Data Analyst and Salesforce Developer</h3>
+<h3 align="center">A passionate Software Developer(Games,Android Applications,C#,Python), Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashirmehmood&label=Profile%20views&color=0e75b6&style=flat" alt="yashirmehmood" /> </p>
 
